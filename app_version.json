@@ -1,7 +1,7 @@
 {
-  "latest_version": "9.1.9",
-  "latest_build_number": 3,
-  "download_url": "https://github.com/sakifnewaj/linkup-updates/releases/download/v9.1.9/app-release.apk",
-  "release_notes": "Added the wavy blue verify tick everywhere. Fixed reaction counters, and upgraded the Feed's scrolling pipeline to eliminate lag!",
+  "latest_version": "9.2.0",
+  "latest_build_number": 4,
+  "download_url": "https://github.com/sakifnewaj/linkup-updates/releases/download/v9.2.0/app-release.apk",
+  "release_notes": "Added the wavy blue verify tick, completely solved Reaction cutoffs, enhanced feed scrolling smoothness, and solved the Auto-Updater!",
   "force_update": false
 }
