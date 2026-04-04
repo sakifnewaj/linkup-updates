@@ -1,7 +1,7 @@
 {
-  "latest_version": "9.1.8",
-  "latest_build_number": 2,
-  "download_url": "https://github.com/sakifnewaj/linkup-updates/releases/download/v9.1.8/app-release.apk",
-  "release_notes": "Added exciting new features and fixed issues!",
+  "latest_version": "9.1.9",
+  "latest_build_number": 3,
+  "download_url": "https://github.com/sakifnewaj/linkup-updates/releases/download/v9.1.9/app-release.apk",
+  "release_notes": "Added the wavy blue verify tick everywhere. Fixed reaction counters, and upgraded the Feed's scrolling pipeline to eliminate lag!",
   "force_update": false
 }
