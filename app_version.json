@@ -1,7 +1,7 @@
 {
-  "latest_version": "9.2.0",
-  "latest_build_number": 4,
-  "download_url": "https://github.com/sakifnewaj/linkup-updates/releases/download/v9.2.0/app-release.apk",
-  "release_notes": "Added the wavy blue verify tick, completely solved Reaction cutoffs, enhanced feed scrolling smoothness, and solved the Auto-Updater!",
+  "latest_version": "9.2.1",
+  "latest_build_number": 5,
+  "download_url": "https://github.com/sakifnewaj/linkup-updates/releases/download/9.2.1/app-release.apk",
+  "release_notes": "Significantly optimized feed scroll smoothness, resolved chat opening layout positioning, and fixed verified badges across all chat views!",
   "force_update": false
 }
